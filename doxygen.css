@@ -390,11 +390,11 @@ hr {
 	white-space: nowrap;
 	font-weight: bold;
 	color:#42657B;
-	padding:3px 10px;
+	padding:3px 5px;
 }
 
 .memproto, .memdoc {
-	border: 2px dotted #E0E0E0;
+	border: 1px dotted #E0E0E0;
 }
 
 .memproto {
@@ -554,3 +554,13 @@ hr {
 	padding-top:10px;
 }
 
+.contents {
+	padding-top: 30px;
+}
+
+h1 {
+	margin-top:0;
+}
+.contents .dynsection {
+	margin-top:10px;
+}
